@@ -1,9 +1,9 @@
-EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
+## EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 
-Aim:
+### Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
-Algorithm:
+### Algorithm:
 1.	Declare structure eligible with age (integer) and n (character array)
 2.	Declare variable e of type eligible
 3.	Input age and name using scanf, store in e
@@ -14,7 +14,7 @@ Else
 5.	Print details (e.age, e.n)
 6.	Return 0
  
-Program:
+### Program:
 ```
 #include <stdio.h>
 #include <string.h>
@@ -39,22 +39,21 @@ int main() {
     return 0;
 }
 ```
-Output:
+### Output:
 
 <img width="608" height="373" alt="image" src="https://github.com/user-attachments/assets/0b7c9f2b-b05a-4d03-9500-73c88c259875" />
 
-Result:
-
+### Result:
 Thus, the program has been verified successfully.
 All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
 
 
 
-EXP NO:2 C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
-Aim:
+## EXP NO:2 C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
+### Aim:
 To write a C program for passing structure as function and returning a structure from a function
 
-Algorithm:
+### Algorithm:
 1.	Define structure numbers with members a and b.
 2.	Declare variable n of type numbers.
 3.	Prompt the user to enter values for a and b.
@@ -63,7 +62,7 @@ Algorithm:
 6.	Print the result returned by the add function.
 7.	Return 0
  
-Program:
+### Program:
 ```
 #include<stdio.h>
 struct add
@@ -76,26 +75,25 @@ int main()
     printf("%d",n.a+n.b);
 }
 ```
-Output:
+### Output:
 
 <img width="353" height="314" alt="image" src="https://github.com/user-attachments/assets/afd76caa-59cc-4639-89d4-fe61b658483f" />
 
 
 
 
-Result:
-
+### Result:
 Thus, the program has been verified successfully.
 All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
 
 
  
-EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
+## EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
 
-Aim:
+### Aim:
 To write a C program to read a file name from user
 
-Algorithm:
+### Algorithm:
 1.	Include the necessary header file stdio.h.
 2.	Begin the main function.
 3.	Declare a file pointer p.
@@ -112,7 +110,7 @@ Use scanf to input the file name into the name array.
 4.	End the main function.
 5.	Return 0 to indicate successful program execution.
  
-Program:
+### Program:
 
 ```
 #include <stdio.h>
@@ -129,21 +127,20 @@ int main()
 }
 ```
 
-Output:
+### Output:
 
 <img width="989" height="469" alt="image" src="https://github.com/user-attachments/assets/7b6fd943-84fb-42e6-a7e2-d342eba4d116" />
 
-Result:
-
+### Result:
 Thus, the program has been verified successfully.
 All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
  
 
 
-EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
-Aim:
+## EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
+### Aim:
 To write a C program to read, a file and insert text in that file
-Algorithm:
+### Algorithm:
 1.	Include the necessary header file stdio.h.
 2.	Begin the main function.
 3.	Declare a file pointer p.
@@ -160,7 +157,7 @@ Use scanf to input the file name into the name array and the number of strings i
 4.	End the main function.
 5.	Return 0 to indicate successful program execution.
  
-Program:
+### Program:
 ```
 #include <stdio.h>
 int main()
@@ -180,26 +177,25 @@ int main()
     printf("Data added Successfully\n");
 }
 ```
-Output:
+### Output:
 
 <img width="707" height="443" alt="image" src="https://github.com/user-attachments/assets/e95be652-7f92-40ea-8e93-46044ea42d2d" />
 
 
 
 
-Result:
-
+### Result:
 Thus, the program has been verified successfully.
 All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
 
 
 
-Ex No 5 : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
+## Ex No 5 : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
 
-Aim:
+### Aim:
 The aim of this program is to dynamically allocate memory to store information about multiple subjects (name and marks), input the details for each subject, and then display the stored information. Finally, it frees the allocated memory to prevent memory leaks.
 
-Algorithm:
+### Algorithm:
 1.Input the number of subjects.
 
 2.Read the integer value n from the user, which represents the number of subjects.
@@ -226,7 +222,7 @@ Algorithm:
 
 13.End the program by returning 0.
 
-Program:
+### Program:
 ```
 #include<stdio.h>
 struct std{
@@ -244,13 +240,12 @@ int main(){
     printf("Percentage is: %.2f",acc.per);
 }
 ```
-Output:
+### Output:
 
 <img width="576" height="279" alt="image" src="https://github.com/user-attachments/assets/55a90873-74bd-4793-933a-6fd7c5481876" />
 
 
 
-Result:
-
+### Result:
 Thus, the program has been verified successfully.
 All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
