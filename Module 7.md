@@ -44,6 +44,7 @@ Output:
 <img width="608" height="373" alt="image" src="https://github.com/user-attachments/assets/0b7c9f2b-b05a-4d03-9500-73c88c259875" />
 
 Result:
+
 Thus, the program has been verified successfully.
 All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
 
@@ -83,6 +84,7 @@ Output:
 
 
 Result:
+
 Thus, the program has been verified successfully.
 All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
 
@@ -132,6 +134,7 @@ Output:
 <img width="989" height="469" alt="image" src="https://github.com/user-attachments/assets/7b6fd943-84fb-42e6-a7e2-d342eba4d116" />
 
 Result:
+
 Thus, the program has been verified successfully.
 All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
  
@@ -185,6 +188,7 @@ Output:
 
 
 Result:
+
 Thus, the program has been verified successfully.
 All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
 
@@ -247,5 +251,6 @@ Output:
 
 
 Result:
+
 Thus, the program has been verified successfully.
 All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
