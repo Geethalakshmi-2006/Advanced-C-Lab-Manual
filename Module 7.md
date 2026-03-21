@@ -52,6 +52,7 @@ All outputs were obtained as expected, the logic was validated, and the executio
 
 
 ## EXP NO:2 C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
+## DATE: 28/01/2026
 ### Aim:
 To write a C program for passing structure as function and returning a structure from a function
 
@@ -91,7 +92,7 @@ All outputs were obtained as expected, the logic was validated, and the executio
 
  
 ## EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
-
+## DATE: 29/01/2026
 ### Aim:
 To write a C program to read a file name from user
 
@@ -139,7 +140,8 @@ All outputs were obtained as expected, the logic was validated, and the executio
  
 
 
-## EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
+## EXP NO:4  PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
+## DATE: 30/01/2026
 ### Aim:
 To write a C program to read, a file and insert text in that file
 ### Algorithm:
@@ -193,7 +195,7 @@ All outputs were obtained as expected, the logic was validated, and the executio
 
 
 ## Ex No 5 : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
-
+## DATE: 31/01/2026
 ### Aim:
 The aim of this program is to dynamically allocate memory to store information about multiple subjects (name and marks), input the details for each subject, and then display the stored information. Finally, it frees the allocated memory to prevent memory leaks.
 
