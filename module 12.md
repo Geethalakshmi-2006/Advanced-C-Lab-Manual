@@ -1,6 +1,7 @@
-
-
+## NAME: GEETHALAKSHMI D
+## REG NO: 212224060079
 ## EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
+### DATE: 12/03/2026
 ### Aim:
 To write a C program to display stack elements using linked list.
 
@@ -43,6 +44,7 @@ All outputs were obtained as expected, the logic was validated, and the executio
 
 
 ## EXP.NO 27: C PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING LINKED LIST.
+### DATE: 13/03/2026
 ### Aim:
 To write a C program to pop an element from the given stack using liked list.
 
@@ -83,6 +85,7 @@ All outputs were obtained as expected, the logic was validated, and the executio
 
  
 ## EXP NO:28 C PROGRAM TO DISPLAY QUEUE ELEMENTS USING LINKED LIST.
+### DATE: 14/03/2026
 ### Aim:
 To write a C program to display queue elements using linked list.
 ### Algorithm:
@@ -132,7 +135,7 @@ All outputs were obtained as expected, the logic was validated, and the executio
 
  
 ## EXP NO:29 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING LINKED LIST
-
+### DATE: 17/03/2026
 ### Aim:
 To write a C program to insert elements in queue using linked list
 
@@ -181,8 +184,8 @@ All outputs were obtained as expected, the logic was validated, and the executio
 
 
 
-### EXP NO:30 C FUNCTION TO FIND THE PEEK OF QUEUE USING LINKED LIST.
-
+## EXP NO:30 C FUNCTION TO FIND THE PEEK OF QUEUE USING LINKED LIST.
+### DATE: 18/03/2026
 
 ### Aim:
 
