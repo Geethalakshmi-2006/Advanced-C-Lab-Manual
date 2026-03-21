@@ -1,5 +1,7 @@
+## NAME: GEETHALAKSHMI D
+## REG NO: 212224060079
 ## EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
-
+## DATE: 27/01/2026
 ### Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
